@@ -1,0 +1,20 @@
+body {
+
+    color: #555555;
+    font-size: 21px;
+    font-weight: lighter;
+}
+
+.box2 {
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.box1 {
+    border-bottom-style: dashed;
+    border-radius: 20px;
+}
+
+.box3 {
+    list-style-type: url=('');
+}
